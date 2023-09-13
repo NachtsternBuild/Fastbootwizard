@@ -276,8 +276,13 @@ r = Recovery-Image in recovery.img umbenennen
 
 ## To-Do:
 ---
+### v.0.3.-1 - Weintraube
 ---
+
 - auto umbennen von Dateien (eigene Unterfunktion)
+
+---
+
 - extrahieren von system Bestandteilen
 - weitere ADB-Funktionen
 

@@ -280,6 +280,9 @@ r = Recovery-Image in recovery.img umbenennen
 ---
 
 - auto umbennen von Dateien (eigene Unterfunktion)
+- ADB install package
+- ADB uninstall package
+- do-while-Schleife an allen Unterfunktionen
 
 ---
 

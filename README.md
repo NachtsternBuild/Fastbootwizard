@@ -285,6 +285,8 @@ r = Recovery-Image in recovery.img umbenennen
 - do-while-Schleife an allen Unterfunktionen
 
 ---
+### Anderes:
+---
 
 - extrahieren von system Bestandteilen
 - weitere ADB-Funktionen

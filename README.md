@@ -10,7 +10,8 @@ Komandozeilentool um lästige Arbeiten mit Fastboot automatisch durchzuführen.
 
 ### Nutzungshinweise:
 
-- ! ! ! Dies ist ein reines Linux-Tool ! ! ! 
+- ! ! ! Dies ist ein reines Linux-Tool ! ! !
+  → wurde nicht für Windows getestet. Funktioniert wahrscheinlich auch.
 
 - ! ! ! Benutzung auf eigene Gefahr ! ! ! 
 

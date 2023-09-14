@@ -216,7 +216,15 @@ Dann folgen sie den Anweisungen des Programms.
 
 16. : mandel:
 
-r = Recovery-Image in recovery.img umbenennen 
+		r = Recovery-Image in recovery.img umbenennen 
+
+		b = Boot-Image in boot.img umbenennen
+
+		v = Vendor-Image in vendor.img umbenennen
+
+		s = System-Image in system.img umbenennen
+		
+		u = als Update-Zip gedachte Datei in update.zip umbenennen		
 
 16. : tomate: 
 
@@ -276,18 +284,8 @@ r = Recovery-Image in recovery.img umbenennen
 
 ## To-Do:
 ---
-### v.0.3.-1 - Weintraube
 ---
-
 - auto umbennen von Dateien (eigene Unterfunktion)
-- ADB install package
-- ADB uninstall package
-- do-while-Schleife an allen Unterfunktionen
-
----
-### Anderes:
----
-
 - extrahieren von system Bestandteilen
 - weitere ADB-Funktionen
 

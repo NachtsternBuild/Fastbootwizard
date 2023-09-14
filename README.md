@@ -24,6 +24,7 @@ Komandozeilentool um lästige Arbeiten mit Fastboot automatisch durchzuführen.
 - öffnen/schließen Bootloader
 - Löschen von Systemteilen ohne erneuten Flash
 - Flashen von Systembestandteilen
+- umbenennen von Dateien
 
 → siehe Buchstabenverteilung um genaue Übersicht über die Funktionen zu bekommen 
 
@@ -70,8 +71,7 @@ Dann folgen sie den Anweisungen des Programms.
 ---
 ## Versionen
 
-- *v.0.3.-1 - Weintraube (Deutsch) → kommendes Release*
-- *v.0.3.-2 - Weintraube (Englisch) → kommendes Release*  
+- *v.0.3.-2 - Weintraube (Deutsch) → kommendes Release*
 - v.0.2. - Kirschreiher (Beta) → ***Aktuelle Version***
 - v.0.1. - Kirsche (Alpha) → siehe **Archived**
 
@@ -285,9 +285,9 @@ Dann folgen sie den Anweisungen des Programms.
 ## To-Do:
 ---
 ---
-- auto umbennen von Dateien (eigene Unterfunktion)
 - extrahieren von system Bestandteilen
 - weitere ADB-Funktionen
+- Übersetzung Englisch
 
 ## Fehler
 Fehlermeldungen / Fehlfunktionen melden an:
